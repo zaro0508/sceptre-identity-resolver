@@ -10,7 +10,7 @@ install_requirements = [
 ]
 
 setup(
-    name='sceptre-identify-resolver',
+    name='sceptre-identity-resolver',
     version="1.0.0",
     description="A set of Sceptre resolvers to help identify stacks",
     py_modules=['stack_name','stack_env'],
