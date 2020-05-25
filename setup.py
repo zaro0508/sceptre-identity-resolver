@@ -32,9 +32,9 @@ setup(
         "Intended Audience :: Developers",
         "Natural Language :: English",
         "Environment :: Console",
-        "Programming Language :: Python :: 2.7",
-        "Programming Language :: Python :: 3.5",
+        "Programming Language :: Python :: 3.4",
         "Programming Language :: Python :: 3.6"
+        "Programming Language :: Python :: 3.7"
     ],
     install_requires=install_requirements,
     include_package_data=True,
